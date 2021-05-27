@@ -1,0 +1,20 @@
+[
+    {
+        "Text": "Exterior Only",
+        "InfoText": "180 WASH",
+        "Service": "Single Wash",
+        "price": "12"
+    },
+    {
+        "Text": "Full Service",
+        "InfoText": "360 WASH",
+        "Service": "Single Wash",
+        "price": "24"
+    },
+    {
+        "Text": "Full Service",
+        "InfoText": "ELITE WASH",
+        "Service": "Single Wash",
+        "price": "48"
+    }
+]

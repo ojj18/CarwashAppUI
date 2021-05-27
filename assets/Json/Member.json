@@ -1,0 +1,26 @@
+[
+    {
+        "Service": "Exterior Only",
+        "Type": "Single Wash",
+        "Wash": "180 WASH",
+        "Price": "29.99",
+        "MemberShip": "UNLIMITED MEMBERSHIP",
+        "color": "#5FCFDD"
+    },
+    {
+        "Service": "Exterior Only",
+        "Type": "Full Wash",
+        "Wash": "360 WASH",
+        "Price": "49.99",
+        "MemberShip": "UNLIMITED MEMBERSHIP",
+        "color": "#FFB344"
+    },
+    {
+        "Service": "Exterior Only",
+        "Type": "Duel Wash",
+        "Wash": "120 WASH",
+        "Price": "38.99",
+        "MemberShip": "UNLIMITED MEMBERSHIP",
+        "color": "#EA5D64"
+    }
+]
